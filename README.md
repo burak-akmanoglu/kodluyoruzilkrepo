@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Başlangıç seviyesi .Net Core Eğitiminde oluşturduğumuz ile repo. İçerisinde bir adet READNE dosyası, bir adet index.html barındırıyor.
 
-![github](figures/github.png)
+![github](figures/github.PNG)
 
 ## Installation
 Öncelikle projeyi clonelayın.
